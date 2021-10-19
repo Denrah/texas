@@ -2,8 +2,6 @@
 //  SceneDelegate.swift
 //  Texas
 //
-//  Created by National Team on 19.10.2021.
-//
 
 import UIKit
 
